@@ -45,23 +45,24 @@ Logistic Regression CV<br>
 LinearSVC<br>
 RandomForestClassifier<br>
 
-Detecting Entities using NER
-Noun Detection
-Language Detection
-Sentence Translation
+Detecting Entities using NER<br>
+Noun Detection<br>
+Language Detection<br>
+Sentence Translation<br>
 Using inbuild 'SENTIMENT CLASSIFIER'
+<br>
+Advance Text processing and Feature Extraction >:<br>
+N-Gram, Bi-Gram ect<br>
+Bag Of Words (BOW)<br>
+Term Frequency Calculation 'TF'<br>
+Inverse Document Frequency 'IDF'<br>
+'TF-IDF' Term Frequency-Inverse Document Frequency<br>
+Word Embeddings 'word2wec' using SPACY<br>
 
-Advance Text processing and Feature Extraction >:
-N-Gram, Bi-Gram ect
-Bag Of Words (BOW)
-Term Frequency Calculation 'TF'
-Inverse Document Frequency 'IDF'
-'TF-IDF' Term Frequency-Inverse Document Frequency
-Word Embeddings 'word2wec' using SPACY
-
-Machine Learning Models for Text Classification >:
-SGD Classifier
-Logistic Regression
-Logistic Regression CV
-LinearSVC
-RandomForestClassifier
+Machine Learning Models for Text Classification >:<br>
+SGD Classifier<br>
+Logistic Regression<br>
+Logistic Regression CV<br>
+LinearSVC<br>
+RandomForestClassifier<br>
+Neural Networks using TF, Keras (LSTM, Embedding Layers) <br>
