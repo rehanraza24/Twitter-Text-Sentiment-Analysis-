@@ -1,5 +1,9 @@
-### Twitter-Text-Sentiment-Analysis-
-In These Notebook we have discussed how to make NLP model , Preprocessing using SPACY, TF, ML algorithms:
+### Text Classification And Preprocessing Notebooks:
+In These Notebook, there are many notebooks and i discussed how to Preprocess data using SPACY <br>
+<br>
+In notebook Text Preprocessing using SPACY.ipynb: Everything is explained for data. (I also mentioned things below) <br>
+In notebook WordTwoVector.ipynb: I have discussed about Gensim, Spacy Word2ec Embeddings (Short Discc) and Similarities B/w Different words in space Vector: <br>
+In notebook Twitter Disaster.ipynb: I have implimented Sentiment Analysis using Tensorflow without pre-trained wordembeddings and also covered Preprocessing texts. <br>
 
 ## **Text Preprocessing Using Spacy:** 
 
