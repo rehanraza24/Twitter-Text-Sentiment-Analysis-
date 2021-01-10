@@ -1,11 +1,11 @@
 ### Text Classification And Preprocessing Notebooks:
 In These Notebook, there are many notebooks and i discussed how to Preprocess data using SPACY <br>
 <br>
-In notebook [Text Preprocessing using SPACY.ipynb](https://github.com/rehanraza44/Twitter-Text-Sentiment-Analysis-/blob/main/Text%20Preprocessing%20using%20SPACY.ipynb) Everything is explained for data. (I also mentioned things below) <br>
-In notebook [WordTwoVector.ipynb](https://github.com/rehanraza44/Twitter-Text-Sentiment-Analysis-/blob/main/WordTwoVector.ipynb) I have discussed about Gensim, Spacy Word2ec Embeddings (Short Discc) and Similarities B/w Different words in space Vector: <br>
-In notebook [Twitter Disaster.ipynb](https://github.com/rehanraza44/Twitter-Text-Sentiment-Analysis-/blob/main/Twitter%20Disaster.ipynb) I have implimented Sentiment Analysis using Tensorflow without pre-trained wordembeddings and also covered Preprocessing texts. <br>
+In notebook [Text Preprocessing using SPACY.ipynb](https://github.com/rehanraza24/Twitter-Text-Sentiment-Analysis-/blob/main/Text%20Preprocessing%20using%20SPACY.ipynb) Everything is explained for data. (I also mentioned things below) <br>
+In notebook [WordTwoVector.ipynb](https://github.com/rehanraza24/Twitter-Text-Sentiment-Analysis-/blob/main/WordTwoVector.ipynb) I have discussed about Gensim, Spacy Word2ec Embeddings (Short Discc) and Similarities B/w Different words in space Vector: <br>
+In notebook [Twitter Disaster.ipynb](https://github.com/rehanraza24/Twitter-Text-Sentiment-Analysis-/blob/main/Twitter%20Disaster.ipynb) I have implimented Sentiment Analysis using Tensorflow without pre-trained wordembeddings and also covered Preprocessing texts. <br>
 
-## **[Text Preprocessing Using Spacy](https://github.com/rehanraza44/Twitter-Text-Sentiment-Analysis-/blob/main/Text%20Preprocessing%20using%20SPACY.ipynb)** 
+## **[Text Preprocessing Using Spacy](https://github.com/rehanraza24/Twitter-Text-Sentiment-Analysis-/blob/main/Text%20Preprocessing%20using%20SPACY.ipynb)** 
 
 #### General Feature Extraction >: 
 File Loading <br>
